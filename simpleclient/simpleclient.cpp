@@ -7,6 +7,7 @@
 #include <stdint.h>
 #include <assert.h>
 
+#include <ctime>
 #include <string>
 
 #include <sys/param.h>
